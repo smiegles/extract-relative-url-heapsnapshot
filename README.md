@@ -9,6 +9,38 @@ npm install
 node main.js https://tweetdeck.twitter.com/
 ```
 
+_Response snippet_
+
+```
+/media/upload.json
+/mutes/conversations/create.json
+/mutes/conversations/destroy.json
+/mutes/users/create.json
+/mutes/users/destroy.json
+/mutes/users/ids.json
+/saved_searches/list.json
+/schedule/status/list.json
+/schedule/status/lookup.json
+/schedule/status/tweet.json
+/search/tweets.json
+/search/typeahead.json
+/search/universal.json
+/statuses/flag_possibly_sensitive.json
+/statuses/following_timeline.json
+/statuses/home_timeline.json
+/statuses/lookup.json
+/statuses/mentions_timeline.json
+/statuses/oembed.json
+/statuses/show.json
+/statuses/update.json
+/statuses/user_timeline.json
+/strato/column/None/tweetdeck/sendFeedback
+/strato/column/Non
+/schedule/list
+/translations/show.json
+/trends/available.json
+```
+
 # Contribution
 
 Open for contribution, right now the script is lacking:
