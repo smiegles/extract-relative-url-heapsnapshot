@@ -9,7 +9,8 @@ npm install
 node main.js https://tweetdeck.twitter.com/
 ```
 
-_Response snippet_
+__Response snippet__
+_Note that not all returned paths will be "correct" and there will be bogus results between it_
 
 ```
 /media/upload.json
