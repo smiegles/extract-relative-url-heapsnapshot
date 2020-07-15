@@ -46,6 +46,4 @@ _Note that not all returned paths will be "correct" and there will be bogus resu
 # Contribution
 
 Open for contribution, right now the script is lacking:
-1. Url validation
-2. A decent Regex to find relative and absolute paths.
-3. The heapdump now gets dumped in a random file, it would be better to remove the file after it's eveluated. 
+1. A decent Regex to find relative and absolute paths.
