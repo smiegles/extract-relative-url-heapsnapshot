@@ -12,6 +12,7 @@
     "filesize": "^6.1.0",
     "headless-devtools": "^2.0.1",
     "heapsnapshot-parser": "^0.1.0",
-    "puppeteer": "^5.0.0"
+    "puppeteer": "^5.0.0",
+    "yargs": "^15.4.1"
   }
 }
